@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 67,
+    "left": 0,
+    "width": 1728,
+    "height": 2304,
+    "isRotated": false,
+    "originalWidth": 1728,
+    "originalHeight": 2438
+  },
+  "imagePath": "image-targets/Kuda_luminance.jpg",
+  "metadata": null,
+  "name": "Kuda",
+  "resources": {
+    "originalImage": "Kuda_original.jpg",
+    "croppedImage": "Kuda_cropped.jpg",
+    "thumbnailImage": "Kuda_thumbnail.jpg",
+    "luminanceImage": "Kuda_luminance.jpg"
+  },
+  "created": 1792382008762,
+  "updated": 1792382012677
+}
