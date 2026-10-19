@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 47,
+    "left": 0,
+    "width": 1240,
+    "height": 1653,
+    "isRotated": false,
+    "originalWidth": 1240,
+    "originalHeight": 1748
+  },
+  "imagePath": "image-targets/nenek_luminance.png",
+  "metadata": null,
+  "name": "nenek",
+  "resources": {
+    "originalImage": "nenek_original.png",
+    "croppedImage": "nenek_cropped.png",
+    "thumbnailImage": "nenek_thumbnail.png",
+    "luminanceImage": "nenek_luminance.png"
+  },
+  "created": 1792417314260,
+  "updated": 1792417319050
+}
