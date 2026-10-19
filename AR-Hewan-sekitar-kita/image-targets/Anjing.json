@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 67,
+    "left": 0,
+    "width": 1728,
+    "height": 2304,
+    "isRotated": false,
+    "originalWidth": 1728,
+    "originalHeight": 2438
+  },
+  "imagePath": "image-targets/Anjing_luminance.jpg",
+  "metadata": null,
+  "name": "Anjing",
+  "resources": {
+    "originalImage": "Anjing_original.jpg",
+    "croppedImage": "Anjing_cropped.jpg",
+    "thumbnailImage": "Anjing_thumbnail.jpg",
+    "luminanceImage": "Anjing_luminance.jpg"
+  },
+  "created": 1792384797322,
+  "updated": 1792384807306
+}
