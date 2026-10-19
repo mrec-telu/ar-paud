@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 47,
+    "left": 0,
+    "width": 1240,
+    "height": 1653,
+    "isRotated": false,
+    "originalWidth": 1240,
+    "originalHeight": 1748
+  },
+  "imagePath": "image-targets/ibu_luminance.png",
+  "metadata": null,
+  "name": "ibu",
+  "resources": {
+    "originalImage": "ibu_original.png",
+    "croppedImage": "ibu_cropped.png",
+    "thumbnailImage": "ibu_thumbnail.png",
+    "luminanceImage": "ibu_luminance.png"
+  },
+  "created": 1792419547755,
+  "updated": 1792419575994
+}

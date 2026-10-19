@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 47,
+    "left": 0,
+    "width": 1240,
+    "height": 1653,
+    "isRotated": false,
+    "originalWidth": 1240,
+    "originalHeight": 1748
+  },
+  "imagePath": "image-targets/adik_luminance.png",
+  "metadata": null,
+  "name": "adik",
+  "resources": {
+    "originalImage": "adik_original.png",
+    "croppedImage": "adik_cropped.png",
+    "thumbnailImage": "adik_thumbnail.png",
+    "luminanceImage": "adik_luminance.png"
+  },
+  "created": 1792419521007,
+  "updated": 1792419601344
+}

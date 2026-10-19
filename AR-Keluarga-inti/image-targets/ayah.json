@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 47,
+    "left": 0,
+    "width": 1240,
+    "height": 1653,
+    "isRotated": false,
+    "originalWidth": 1240,
+    "originalHeight": 1748
+  },
+  "imagePath": "image-targets/ayah_luminance.png",
+  "metadata": null,
+  "name": "ayah",
+  "resources": {
+    "originalImage": "ayah_original.png",
+    "croppedImage": "ayah_cropped.png",
+    "thumbnailImage": "ayah_thumbnail.png",
+    "luminanceImage": "ayah_luminance.png"
+  },
+  "created": 1792419530319,
+  "updated": 1792419593203
+}
