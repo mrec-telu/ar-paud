@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 80,
+    "left": 0,
+    "width": 1728,
+    "height": 2304,
+    "isRotated": false,
+    "originalWidth": 1728,
+    "originalHeight": 2464
+  },
+  "imagePath": "image-targets/Zebra_luminance.jpg",
+  "metadata": null,
+  "name": "Zebra",
+  "resources": {
+    "originalImage": "Zebra_original.jpg",
+    "croppedImage": "Zebra_cropped.jpg",
+    "thumbnailImage": "Zebra_thumbnail.jpg",
+    "luminanceImage": "Zebra_luminance.jpg"
+  },
+  "created": 1792376695192,
+  "updated": 1792376703737
+}
